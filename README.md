@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on IOS App Development.
-- 🌱 I’m currently learning SwiftUI and Swift Storyboard Applications.
+- 🔭 I’m currently working on IOS App Development and AI.
+- 🌱 I’m currently learning GenAI and Swift.
 - 🤔 I’m looking for help with IOS Apps and Python development.
 - 💬 Ask me something I will collaborate.
 - 📫 How to reach me:
